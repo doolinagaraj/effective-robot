@@ -1,0 +1,20 @@
+"IT Manager","Management", 75000
+"Project Manager","Product Management", 70000
+"Solution Architect","Architecture", 80000
+"Enterprise Architect","Architecture", 85000
+"Systems Architect","System Architecture", 75000
+"Data Scientist","Data Science", 80000
+"Data Engineer","Data Science", 75000
+"Data Analyst", "Data Science", 75000
+"Marketing Specialist", "Marketing", 80000
+ "Software Development Manager","Software Management", 85000
+ "IT Security Manager","Management", 75000
+ "Network Architect","Architecture", 75000
+ "DevOps Engineer","Engineering", 70000
+ "Cloud Engineer","Engineering", 70000
+ "Systems Administrator","Administration", 60000
+ "Database Administrator (DBA)","Database Administration", 70000
+ "Network Administrator","Administration", 60000
+ "Web Developer","Development", 60000
+ "Software Engineer","Engineering", 70000
+ "Quality Assurance (QA) Engineer","Engineering", 60000
